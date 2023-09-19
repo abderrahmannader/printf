@@ -3,7 +3,7 @@
  * handle_print - Print argu based type
  * @fmt: Format argu
  * @list: List argu
- * @ind: ind value 
+ * @ind: ind value
  * @buffer: arr print
  * @flags: Calcu flag
  * @width: thewidth
