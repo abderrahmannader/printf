@@ -5,9 +5,9 @@
  * print_char - P char
  * @types: argu list 
  * @buffer: arr print
- * @flags:  Calcu act flags
+ * @flags:  Calcu
  * @width: value Width
- * @precision: Prec specific
+ * @precision: Prec
  * @size: Size spec
  * Return: Numb print
  */

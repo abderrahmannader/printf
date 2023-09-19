@@ -19,9 +19,9 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - Str op
+ * struct fmt - Str
  * @fmt: format
- * @fn: fun associated
+ * @fn: fun
  */
 struct fmt
 {
@@ -31,9 +31,9 @@ struct fmt
 
 
 /**
- * typedef struct fmt fmt_t - Str op
+ * typedef struct
  * @fmt: format
- * @fm_t: fun associated
+ * @fm_t: fun
  */
 typedef struct fmt fmt_t;
 
@@ -111,4 +111,3 @@ long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
 
 #endif
-

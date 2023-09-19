@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calcul flag
- * @format: Formatted stri argu
+ * @format: Formatted
  * @i: take param
  * Return: Flag
  */

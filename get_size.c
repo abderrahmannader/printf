@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_size - Calcu size argu
+ * get_size - Calcu size
  * @format: Format argu
  * @i: List argu
  * Return: Prec

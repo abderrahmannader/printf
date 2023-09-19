@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * handle_print - Print argu based type
+ * handle_print - Print argu
  * @fmt: Format argu
  * @list: List argu
  * @ind: ind value
