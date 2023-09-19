@@ -3,7 +3,7 @@
 /* PRINT CHAR */
 /**
  * print_char - P char
- * @types: argu list 
+ * @types: argu list
  * @buffer: arr print
  * @flags:  Calcu act flags
  * @width: value Width
