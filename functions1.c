@@ -2,13 +2,13 @@
 
 /* Print Unsigend numb */
 /**
- * print_unsigned - Print unsigned numb
+ * print_unsigned - Print
  * @types: List argu
- * @buffer: Buffer arr
- * @flags:  Calc flags
+ * @buffer: Buffer
+ * @flags:  Calc
  * @width: the width
- * @precision: Prec specific
- * @size: Size spec
+ * @precision: Prec
+ * @size: Size
  * Return: Numb char
  */
 int print_unsigned(va_list types, char buffer[],
@@ -39,8 +39,8 @@ int print_unsigned(va_list types, char buffer[],
 /**
  * print_octal - Print octal numb
  * @types: List argu
- * @buffer: Buffer arr
- * @flags:  Calc flags
+ * @buffer: Buffer
+ * @flags:  Calc
  * @width: the width
  * @precision: Prec specific
  * @size: Size spec

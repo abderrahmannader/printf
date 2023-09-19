@@ -2,7 +2,7 @@
 
 /**
  * get_width - Calcu width
- * @format: Format str which argu
+ * @format: Format str which
  * @i: List argu
  * @list: List argu
  * Return: width value
